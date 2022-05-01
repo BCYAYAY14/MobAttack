@@ -1,7 +1,7 @@
 const gameState = {}
 
 function preload() {
-    this.load.image('sword', "/images/sword-blue.png")
+    this.load.image('sword', "images/sword-blue.png")
 }
 
 function create() {
